@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yağmur'un Sayfası
 
 You can use the [editor on GitHub](https://github.com/yagmur-kolanc/yagmur-kolanc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
